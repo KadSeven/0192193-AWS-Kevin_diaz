@@ -1,4 +1,4 @@
-# CODIGO-nombre-apellido-iac-aws
+# 0192193-kevin-diaz-iac-aws
 
 Proyecto del taller de Cloud Computing (Ingeniería de Sistemas – UFPSO).
 
@@ -15,8 +15,8 @@ personalizada. La infraestructura está definida en `templates/template.yaml`
 
 ## Estudiante
 
-- Nombre: TU NOMBRE COMPLETO
-- Código: TU_CODIGO
+- Nombre: Kevin Alejandro Diaz Franco
+- Código: 0192193
 - Docente: Wilder Andrés Duarte Neira
 
 ## Sitio web desplegado
